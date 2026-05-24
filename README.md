@@ -9,6 +9,8 @@ Evaluates both models using Precision@5, Precision@10, and NDCG@10
 Visualises results with matplotlib bar charts comparing model performance
 
 Technologies: Python 3, scikit-learn, sentence-transformers, NLTK, pandas, matplotlib, Google Colab
+
 How to run:
 Open COMP316_GroupProject.ipynb in Google Colab or Jupyter Notebook and run all cells.
+
 What I learned: NLP preprocessing pipelines, TF-IDF vectorisation, cosine similarity, sentence embeddings (SBERT), and evaluation metrics for recommendation systems.
